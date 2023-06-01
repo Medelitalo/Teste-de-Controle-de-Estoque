@@ -1,0 +1,6 @@
+
+Marca do Pneu: michelan   Modelo Pneu: caminhao   Quantidade Estoque:50
+Marca do Pneu: petrolan   Modelo Pneu: borracha   Quantidade Estoque:21
+Marca do Pneu: Dunlop   Modelo Pneu: Dunlop   Quantidade Estoque:21
+Marca do Pneu: Bridgestone   Modelo Pneu: Bridgestone   Quantidade Estoque:24
+Marca do Pneu: Firestone   Modelo Pneu: Firestone   Quantidade Estoque:32
